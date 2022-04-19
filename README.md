@@ -6,7 +6,7 @@
 
  
 
-:computer: Desenvolvedor Fullstack Júnior!
+:computer: Desenvolvedor Júnior!
 
 :house_with_garden: Brasileiro.
 
