@@ -6,7 +6,7 @@
 
  
 
-:computer: Desenvolvedor Pleno!
+:computer: Desenvolvedor Pleno
 
 :house_with_garden: Brasileiro.
 
